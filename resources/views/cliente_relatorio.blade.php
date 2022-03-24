@@ -4,7 +4,7 @@
     @isset($relatorio)
         
     
-    <table class="table table-striped">
+    <table class="table table-striped mb-2">
         <thead>
             <tr>
                 <th>Receita liquida</th>
